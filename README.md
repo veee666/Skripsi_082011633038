@@ -1,1 +1,1 @@
-# testing_skripsi_kaggle
+# Source code skripsi
